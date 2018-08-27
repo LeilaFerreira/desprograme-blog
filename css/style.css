@@ -22,7 +22,7 @@ h1{
 .branco {
     color: #fff;
 }
-a {
+nav a {
     text-decoration: none;
 }
 nav a:link,nav a:visited {
@@ -78,11 +78,13 @@ a:link, a:visited{
 a:hover{
     text-decoration: underline;
 }
-.conteudo-lateral ​{
+
+.conteudo-lateral{
     background: #fff;
     padding: 10px;
     margin-bottom: 20px;
     text-align: justify;
+    
 }
 h3{
     color:#565656;
